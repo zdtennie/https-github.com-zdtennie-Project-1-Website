@@ -1,0 +1,92 @@
+html, body {
+  /* Container needed to position the button. Adjust the width as needed */ 
+  position: absolute;
+  width 100%;
+  
+}
+
+/* Make the image responsive */
+.container img {
+  width: 100%;
+  height: 100;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -55%);
+  -ms-transform: translate(-0%, -50%);
+  background-color: rgba(198, 168, 168, 1);
+  color: rgba(164, 103, 103, 0.83);
+  font-size: 30px;
+  font-family: 'Sarpanch', sans-serif;
+  Font style: Bold;
+    Align: Center;
+    Font size: 50px
+  padding: 12px 24px;
+  border: 1px solid #ECDFD7;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  On click;
+  Action: "hover";
+Animate: Instant;
+animation-duration: 4ms;
+
+}
+
+.container .btn:hover {
+  background-color: #BCB0AA
+  
+}
+margin: 0;
+padding: 0;
+
+}
+canvas display: bp;
+}
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  /* Game and Interaction Design ...The effects, causes, and outcomes */
+position: absolute;
+width: 350.8px;
+height: 236.49px;
+left: 135px;
+top: 130px;
+
+font-family: 'Sansita One';
+font-style: normal;
+font-weight: 400;
+font-size: 0px;
+line-height: 87px;
+text-align: center;
+
+color: #ECDFD7;
+
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
